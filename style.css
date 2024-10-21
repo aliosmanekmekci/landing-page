@@ -17,7 +17,7 @@ header {
   color: white;
   padding: 1rem;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 header a:link,
@@ -28,4 +28,11 @@ a:focus {
   text-decoration: none;
   font-size: 18px;
   color: #f9faf8;
+  flex-grow: 0.5;
+}
+
+.right-header-links {
+  display: flex;
+  justify-content: flex-end;
+  gap: 4rem;
 }
