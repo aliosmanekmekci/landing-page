@@ -12,7 +12,7 @@ This is my Odin Project landing page assignment. It was built using HTML and CSS
 
 To view this landing page:
 
-1. Visit the live version at [\[Your GitHub Pages URL\]](https://aliosmanekmekci.github.io/landing-page)
+1. Visit the live version at [here](https://aliosmanekmekci.github.io/landing-page)
 
 ## Technologies Used
 
