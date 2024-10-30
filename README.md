@@ -22,12 +22,8 @@ To view this landing page:
 
 ## Credits
 
-This landing page was created by [Your Name] as part of The Odin Project curriculum.
+This landing page was created by Ali Osman Ekmekci as part of The Odin Project curriculum.
 
 ## License
 
 This project is open-source and free to use under the MIT License.
-
-## Contact
-
-Feel free to reach out to me at [Your Email Address] or visit my GitHub profile at [Your GitHub Profile URL].
